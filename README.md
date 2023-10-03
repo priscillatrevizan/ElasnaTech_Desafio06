@@ -51,4 +51,4 @@ Este projeto proporcionou uma oportunidade valiosa para praticar a programação
 
 ## Demonstração
 
-Este site pode ser acessado em: 
+Este site pode ser acessado em: https://priscillatrevizan.github.io/ElasnaTech_Desafio06/
